@@ -1,5 +1,4 @@
-/.envrc
-/debobbifier.report
+/*report*.*
 
 # Project exclude paths
-/.direnv/python-3.9.14/
+/.direnv
